@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SeGunPARK&fontSize=70&animation=twinkling)
 
-<p align="center",fontSize=70>welcom to my GitHub</p>
+<p align="center" fontSize=70>welcom to my GitHub</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
