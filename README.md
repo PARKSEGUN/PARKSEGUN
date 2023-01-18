@@ -27,7 +27,7 @@
   <a href="mailto:qkrtprjs456@gmail.com" target="_blank"><img src="https://img.shields.io/badge/qkrtprjs456@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parksegun&show_icons=true&theme=react)
+
 
 
 </div>
