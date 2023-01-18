@@ -21,7 +21,7 @@
 
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=https://blog.naver.com/qkrtprjs456=기술면접대비))](https://blog.naver.com/qkrtprjs456)
+  [![Velog's GitHub stats](🧸)](https://blog.naver.com/qkrtprjs456)
 
   
 </div>
