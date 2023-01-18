@@ -23,15 +23,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parksegun&show_icons=true&theme=react)
 
 
-</div>
 
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parksegun&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!--
-**parksegun/parksegun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 <div align="center">
 <p>
   <a href="https://blog.naver.com/qkrtprjs456" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
