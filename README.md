@@ -21,7 +21,7 @@
 
 <div align="center" style="text-align:center">
   
-  🧸(https://blog.naver.com/qkrtprjs456)
+  [🧸](https://blog.naver.com/qkrtprjs456)
 
   
 </div>
