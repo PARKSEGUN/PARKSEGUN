@@ -16,7 +16,7 @@
 </p>
 
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkskekzzz&show_icons=true&theme=react)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parksegun&show_icons=true&theme=react)
 
 <div align="center">
 <p>
