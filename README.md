@@ -20,17 +20,17 @@
 <h3 align="center"> Blog </h3>
   
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkskekzzz&show_icons=true&theme=react)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parksegun&show_icons=true&theme=react)
 
 
 </div>
 
 
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkskekzzz&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parksegun&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
-**rkskekzzz/rkskekzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**parksegun/parksegun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
