@@ -23,7 +23,6 @@
 <div align="center">
 <p>
   <a href="https://velog.io/@parksegun" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
-  <a href="https://blog.naver.com/qkrtprjs456" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
   <a href="https://www.instagram.com/qkrtprjs456/" target="_blank"><img src="https://img.shields.io/badge/ParkSeGun-CB3F7C?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="mailto:qkrtprjs456@gmail.com" target="_blank"><img src="https://img.shields.io/badge/qkrtprjs456@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
