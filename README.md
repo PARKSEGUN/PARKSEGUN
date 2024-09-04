@@ -7,12 +7,24 @@
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <h3 align="center">Backend</h3>
+   <p align="center"> 
+     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+      <img src="https://img.shields.io/badge/spring Cloud Gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+     <img src="https://img.shields.io/badge/spring Cloud Netflix-DD0031?style=for-the-badge&logo=spring&logoColor=white">
+   </p>
+   <h3 align="center">Database</h3>
+   <p align="center"> 
+     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+     <img src="https://img.shields.io/badge/redis-DD0031?style=for-the-badge&logo=redis&logoColor=white">
+     <img src="https://img.shields.io/badge/elasticsearch-F8DC75?style=for-the-badge&logo=elasticsearch&logoColor=white">
+   </p>
+   <h3 align="center">Infra</h3>
+   <p align="center">
+     <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+     <img src="https://img.shields.io/badge/jenkins-F05032?style=for-the-badge&logo=jenkins&logoColor=white">
+     <img src="https://img.shields.io/badge/docker-339AF0?style=for-the-badge&logo=docker&logoColor=white">
+   </p>
 </p>
 
 <br>
@@ -22,9 +34,9 @@
 
 <div align="center">
 <p>
-  <a href="https://velog.io/@parksegun" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
-  <a href="https://www.instagram.com/qkrtprjs456/" target="_blank"><img src="https://img.shields.io/badge/ParkSeGun-CB3F7C?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="mailto:qkrtprjs456@gmail.com" target="_blank"><img src="https://img.shields.io/badge/qkrtprjs456@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://velog.io/@parksegun" target="_blank"><img src="https://img.shields.io/badge/velog-339933?style=for-the-badge&logo=velog&logoColor=white"/></a>
+  <a href="https://malleable-hose-bd4.notion.site/89987794d0a5492e826b11843fe00631?pvs=" target="_blank"><img src="https://img.shields.io/badge/portfolio-80247B?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="mailto:qkrtprjs456@gmail.com" target="_blank"><img src="https://img.shields.io/badge/qkrtprjs456@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 <br>
 
